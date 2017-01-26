@@ -6,7 +6,10 @@ ODEH Majd
 Asteroids Game
 Made using Grapic 0.4.33
 http://liris.cnrs.fr/alexandre.meyer/grapic/html/index.html
-
+<img src="https://raw.githubusercontent.com/majdodeh/asteroids-game/master/Screenshots/00_Start_screen.png">
+<img src="https://raw.githubusercontent.com/majdodeh/asteroids-game/master/Screenshots/01_Levels_screen.png">
+<img src="https://raw.githubusercontent.com/majdodeh/asteroids-game/master/Screenshots/02_Game_screen.png">
+<img src="https://raw.githubusercontent.com/majdodeh/asteroids-game/master/Screenshots/03_Game_over_screen.png">
 ------------------------------------------------------------
 
 Game principle
